@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
-============================================================
-  O P E N M A P P E R . A P P
-============================================================
-        grass  ->  code  ->  server  ->  launch
-============================================================
+==============================================================
+  O P E N M A P P E R  |  S T E L L I X  |  V E D K O S H
+==============================================================
+        grass  ->  code  ->  server  ->  product  ->  launch
+==============================================================
 ```
 
 # Akashdeep Singh / neeryks
@@ -16,8 +16,10 @@ I build premium websites, web apps, ecommerce stores, backend systems,
 AI workflows, and the Linux/server layer that keeps the whole thing alive.
 
 [![OpenMapper](https://img.shields.io/badge/OpenMapper.app-2f7d32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://openmapper.app)
+[![Stellix](https://img.shields.io/badge/Stellix.app-111827?style=for-the-badge&logo=starship&logoColor=white)](https://stellix.app)
+[![Vedkosh](https://img.shields.io/badge/Vedkosh.app-b5651d?style=for-the-badge&logo=sunrise&logoColor=white)](https://vedkosh.app)
 [![GitHub](https://img.shields.io/badge/@neeryks-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neeryks)
-[![Build Type](https://img.shields.io/badge/building-websites_%2B_apps_%2B_ai-8bc34a?style=for-the-badge)](https://openmapper.app)
+[![Build Type](https://img.shields.io/badge/building-products_%2B_backends_%2B_servers-8bc34a?style=for-the-badge)](https://openmapper.app)
 
 </div>
 
@@ -29,6 +31,7 @@ AI workflows, and the Linux/server layer that keeps the whole thing alive.
 PLAYER        Akashdeep Singh
 HANDLE        neeryks
 BASE          OpenMapper.app
+MAIN BUILDS   Stellix.app + Vedkosh.app
 CLASS         full-stack builder + backend + Linux/sysadmin
 MAIN QUEST    build useful web systems that bring real business inquiries
 SIDE QUESTS   AI workflows, automation, IoT, data science, experiments
@@ -37,6 +40,22 @@ SIDE QUESTS   AI workflows, automation, IoT, data science, experiments
 OpenMapper is my business: premium websites, apps, ecommerce stores, and AI workflows for local businesses and brands that need to look credible, load fast, and convert visitors into real leads.
 
 I am comfortable across the whole map: frontend screens, backend APIs, deployment, domains, Linux servers, automation, and debugging the strange little problems that appear between code and production.
+
+## Main Builds
+
+```txt
+        [OPENMAPPER.APP] ----- builds websites, apps, automation
+              |
+              +---- [STELLIX.APP] ---- custom star map commerce
+              |
+              +---- [VEDKOSH.APP] ---- Vedic astrology workspace/API
+```
+
+| Product | What it is | What I built around |
+|---|---|---|
+| [OpenMapper.app](https://openmapper.app) | My web design and development business | premium websites, ecommerce, apps, AI workflows, lead systems |
+| [Stellix.app](https://stellix.app) | Custom star map poster product | night-sky generation, personalization, ecommerce flow, print-ready output |
+| [Vedkosh.app](https://vedkosh.app) | Vedic astrology workspace | kundli, divisional charts, dashas, Panchang, transits, chart-linked tools |
 
 ## Crafting Inventory
 
@@ -47,23 +66,24 @@ I am comfortable across the whole map: frontend screens, backend APIs, deploymen
 | 03 | Linux / SysAdmin | VPS setup, SSH, Nginx, SSL, DNS, deploys, server fixes |
 | 04 | Business Websites | landing pages, service sites, portfolio sites, lead systems |
 | 05 | Ecommerce | product flows, checkout UX, catalog structure, conversion paths |
-| 06 | AI Workflows | automation, content tools, image/video workflows, smart assistants |
-| 07 | Data / ML | Python, pandas, anomaly detection, dashboards, sensor pipelines |
+| 06 | Product Systems | personalized generators, workspaces, dashboards, production flows |
+| 07 | AI Workflows | automation, content tools, image/video workflows, smart assistants |
+| 08 | Data / ML | Python, pandas, anomaly detection, dashboards, sensor pipelines |
 
 ## OpenMapper Base
 
 ```txt
-                 [OPENMAPPER.APP]
-                       ||
-        +--------------++--------------+
-        |              ||              |
-  [websites]      [web apps]      [automation]
-        |              ||              |
-  [frontend]      [backend]       [AI workflows]
-        |              ||              |
-        +----------[linux servers]-----+
-                       ||
-                  [real inquiries]
+                         [OPENMAPPER.APP]
+                               ||
+        +----------------------++----------------------+
+        |                      ||                      |
+  [client websites]       [STELLIX.APP]          [VEDKOSH.APP]
+        |                      ||                      |
+  [lead systems]       [star map shop]       [astro workspace]
+        |                      ||                      |
+        +----------[backend APIs + linux servers]------+
+                               ||
+                      [products that actually run]
 ```
 
 What I build through OpenMapper:
@@ -71,6 +91,7 @@ What I build through OpenMapper:
 - Premium websites for local service businesses and brands.
 - Web apps with polished UI and practical backend logic.
 - Ecommerce experiences that make products easy to browse and buy.
+- Product platforms like Stellix and Vedkosh, from UI to backend wiring.
 - AI workflow automation for scheduling, CRM, lead capture, and reporting.
 - Server setup, deployment, maintenance, and production troubleshooting.
 
@@ -93,6 +114,8 @@ BUSINESS BLOCKS    websites | ecommerce | lead capture | conversion systems
 | Build | Type | Notes |
 |---|---|---|
 | [OpenMapper.app](https://openmapper.app) | Business / agency | premium websites, apps, ecommerce, and AI workflows |
+| [Stellix.app](https://stellix.app) | Full-stack ecommerce product | personalized night sky posters with custom generation and checkout flow |
+| [Vedkosh.app](https://vedkosh.app) | Vedic astrology workspace | kundli, divisional charts, dasha timelines, Panchang, and analysis tools |
 | [focus-flow](https://github.com/neeryks/focus-flow) | Frontend / productivity | flow-state and productivity tooling |
 | [wan22-comfyui](https://github.com/neeryks/wan22-comfyui) | AI / Docker | ComfyUI-related setup and deployment work |
 | [facefusion_colab](https://github.com/neeryks/facefusion_colab) | AI / Colab | accelerated notebook workflow for FaceFusion experiments |
@@ -103,6 +126,8 @@ BUSINESS BLOCKS    websites | ecommerce | lead capture | conversion systems
 
 ```txt
 [active]  grow OpenMapper.app
+[active]  improve Stellix.app as a real ecommerce product
+[active]  improve Vedkosh.app as a serious astrology workspace
 [active]  ship better websites and web apps for real businesses
 [active]  build stronger backend and Linux production systems
 [active]  keep leveling up in AI, automation, data science, and ML
