@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Neeryks cosmic profile banner</title>
+  <desc id="desc">A dark cosmic banner with stars, planets, orbital paths, and text for star maps, automation, and backend APIs.</desc>
+  <defs>
+    <radialGradient id="spaceGlow" cx="48%" cy="42%" r="72%">
+      <stop offset="0%" stop-color="#28376f"/>
+      <stop offset="42%" stop-color="#0d1634"/>
+      <stop offset="100%" stop-color="#050812"/>
+    </radialGradient>
+    <linearGradient id="nebula" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#59c2ff" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+    <filter id="blurGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#spaceGlow)"/>
+  <path d="M-70 280 C130 190 220 310 400 220 C590 126 765 236 930 135 C1072 48 1175 80 1280 20" fill="none" stroke="url(#nebula)" stroke-width="90" stroke-linecap="round" opacity="0.16"/>
+  <path d="M-40 288 C155 205 270 314 430 230 C610 139 786 240 955 145 C1090 70 1185 91 1260 45" fill="none" stroke="url(#nebula)" stroke-width="18" stroke-linecap="round" opacity="0.3" filter="url(#blurGlow)"/>
+
+  <g opacity="0.45" stroke="#93c5fd" fill="none">
+    <ellipse cx="915" cy="184" rx="190" ry="55" transform="rotate(-18 915 184)"/>
+    <ellipse cx="915" cy="184" rx="250" ry="72" transform="rotate(-18 915 184)" opacity="0.45"/>
+    <ellipse cx="270" cy="208" rx="140" ry="42" transform="rotate(14 270 208)" opacity="0.5"/>
+  </g>
+
+  <g filter="url(#blurGlow)">
+    <circle cx="915" cy="184" r="37" fill="#f59e0b"/>
+    <circle cx="902" cy="170" r="37" fill="#fcd34d" opacity="0.55"/>
+    <circle cx="270" cy="208" r="24" fill="#38bdf8"/>
+    <circle cx="650" cy="78" r="10" fill="#c4b5fd"/>
+  </g>
+
+  <g fill="#e0f2fe">
+    <circle cx="72" cy="54" r="2.2"/>
+    <circle cx="125" cy="132" r="1.6"/>
+    <circle cx="184" cy="78" r="1.8"/>
+    <circle cx="232" cy="32" r="1.3"/>
+    <circle cx="350" cy="82" r="2"/>
+    <circle cx="430" cy="40" r="1.4"/>
+    <circle cx="520" cy="122" r="1.8"/>
+    <circle cx="590" cy="38" r="1.2"/>
+    <circle cx="720" cy="118" r="1.7"/>
+    <circle cx="810" cy="46" r="1.3"/>
+    <circle cx="1048" cy="62" r="1.9"/>
+    <circle cx="1130" cy="138" r="1.5"/>
+    <circle cx="1080" cy="284" r="1.8"/>
+    <circle cx="970" cy="305" r="1.2"/>
+    <circle cx="760" cy="286" r="1.6"/>
+    <circle cx="610" cy="305" r="1.4"/>
+    <circle cx="415" cy="298" r="1.8"/>
+    <circle cx="120" cy="286" r="1.5"/>
+  </g>
+
+  <g stroke="#bfdbfe" stroke-width="1.2" opacity="0.75">
+    <path d="M72 54 L125 132 L184 78 L232 32" fill="none"/>
+    <path d="M720 118 L810 46 L890 92" fill="none"/>
+    <path d="M970 305 L1080 284 L1130 138" fill="none"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="600" y="142" fill="#f8fafc" font-size="58" font-weight="800" letter-spacing="8">NEERYKS</text>
+    <text x="600" y="184" fill="#bae6fd" font-size="18" font-weight="700" letter-spacing="5">STAR MAPS  /  AUTOMATION WORKFLOWS  /  BACKEND APIs</text>
+    <rect x="330" y="217" width="540" height="38" rx="19" fill="#020617" opacity="0.62" stroke="url(#lineGlow)"/>
+    <text x="600" y="242" fill="#fde68a" font-size="14" font-weight="700" letter-spacing="3">SKY DATA -> PRODUCT SYSTEMS -> PRODUCTION SERVERS</text>
+  </g>
+</svg>
