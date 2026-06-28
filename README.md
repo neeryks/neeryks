@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="./assets/cosmic-banner.svg" alt="Neeryks cosmic banner: star maps, automation workflows, and backend APIs" width="100%" />
+<img src="./assets/cosmic-banner.svg" alt="Neeryks cosmic banner with stars, planets, automation flows, and backend APIs" width="100%" />
 
 # Akashdeep Singh / neeryks
 
-### Star-map products, automation workflows, backend APIs, and production web systems.
+### I build star maps, automation flows, backend APIs, and web systems that feel alive.
 
-I build space-themed products, celestial generators, automation workflows,
-backend systems, and the Linux/server layer that keeps the whole thing alive.
+I like turning sky data, business ideas, and messy workflows into products people can actually use. A lot of my work lives somewhere between astronomy visuals, clean interfaces, backend logic, automation, and the quiet server work that keeps everything running.
 
 [![neeryks.dev](https://img.shields.io/badge/neeryks.dev-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neeryks.dev)
 [![Stellix](https://img.shields.io/badge/Stellix.app-111827?style=for-the-badge&logo=starship&logoColor=white)](https://stellix.app)
@@ -17,92 +16,92 @@ backend systems, and the Linux/server layer that keeps the whole thing alive.
 
 </div>
 
----
-
-## Orbit Map
+## Cosmic Console
 
 ```txt
-                  [neeryks.dev]
-                       |
-        +--------------+--------------+
-        |              |              |
-  [Stellix.app]   [Automation]   [OpenMapper APIs]
-        |              |              |
-  star maps       CRM / leads     backend modules
-        |              |              |
-        +----------[Linux / servers]--+
-                       |
-              products that actually run
+                 neeryks.dev
+                     |
+        Stellix.app  |  Vedkosh.app
+             \       |       /
+              \      |      /
+               OpenMapper systems
+                     |
+        automation  APIs  servers  launch
 ```
 
-My main orbit is **space-product work**: star maps, night-sky generators, celestial visuals, date/location driven sky products, and polished web experiences around astronomy-style data.
+My main orbit is space software. I care about star maps, night sky generators, celestial visuals, location and date based sky products, and web experiences that make cosmic data feel close enough to touch.
 
-OpenMapper is the business and systems layer behind the work: websites, ecommerce, automation workflows, SaaS-style APIs, deployments, domains, server setup, and production support.
+OpenMapper is the engine room behind a lot of that work. It covers websites, ecommerce, automation flows, SaaS APIs, backend contracts, domains, deployments, Linux servers, and production support.
 
-## Product Systems
+## What I Build
 
-| System | What it does |
-|---|---|
-| [Stellix.app](https://stellix.app) | Custom star map posters with night-sky generation, personalization, ecommerce flow, and print-ready output |
-| [Vedkosh.app](https://vedkosh.app) | Vedic astrology workspace for kundli, divisional charts, dashas, Panchang, transits, and chart-linked tools |
-| [OpenMapper.app](https://openmapper.app) | Premium websites, ecommerce, backend APIs, automation workflows, and lead systems |
-| [neeryks.dev](https://neeryks.dev) | Personal home base and contact path |
+**Stellix.app**<br>
+Custom star map posters with night sky generation, personalization, ecommerce flow, and output ready for print.
 
-## Automation Workflows
+**Vedkosh.app**<br>
+A Vedic astrology workspace for kundli, divisional charts, dashas, Panchang, transits, and chart connected tools.
+
+**OpenMapper.app**<br>
+Websites, ecommerce, backend APIs, automation flows, lead systems, and SaaS style product modules.
+
+**neeryks.dev**<br>
+My personal base on the web.
+
+## Automation Flows
 
 ```txt
-[visitor / form] -> [validate] -> [AI or rule step] -> [CRM / report] -> [action]
-[business data]  -> [clean]    -> [summarize]       -> [dashboard]     -> [decision]
-[product order]  -> [process]  -> [status update]   -> [email]         -> [delivery]
+visitor form        orbit check        CRM or report        action
+business data       clean signal       summary              dashboard
+product order       process            status update        delivery
 ```
 
-I build the invisible rails around products: lead capture, CRM cleanup, scheduling, reporting, content workflows, internal ops, notifications, handoffs, and data movement between tools.
+I enjoy building the invisible rails around a product. The quiet flows that catch leads, clean inputs, move data between tools, send updates, create reports, trigger actions, and remove boring manual steps.
 
-## Backend / SaaS APIs
+## Backend And SaaS APIs
 
-OpenMapper also has backend-as-a-service style modules for product and business automation:
+OpenMapper also carries backend modules for product and business automation.
 
-| API / Module | What it powers |
-|---|---|
-| StarMapper API | Star map generation, personalization, order metadata, and fulfillment flow |
-| EarthMapper API | Location-based memory maps and geographic storytelling products |
-| Memory eBook API | Personalized digital storytelling products |
-| Astro Calendar API | Year-based astronomy calendar generation |
-| Appointment Automation API | Natural-language booking, rescheduling, and availability checks |
-| AI CRM Management API | Natural-language CRM record creation, updates, search, and cleanup |
-| Lead Capture API | Lead extraction, qualification scoring, and CRM handoff |
-| Business Reporting API | Summaries, metric snapshots, scheduled reports, and trend narratives |
+```txt
+StarMapper API          star map generation, orders, and fulfillment flow
+EarthMapper API         location memory maps and geographic story products
+Memory eBook API        personalized digital story products
+Astro Calendar API      yearly astronomy calendar generation
+Appointment API         booking, rescheduling, and availability checks
+AI CRM API              CRM records, search, updates, and cleanup
+Lead Capture API        lead extraction, scoring, and CRM handoff
+Business Reporting API  summaries, metric snapshots, and trend notes
+```
 
-## Build Stack
+## Stack In Orbit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,python,nodejs,linux,docker,vscode&theme=dark" alt="Tech stack icons" />
 </p>
 
 ```txt
-SPACE        star maps | sky charts | celestial data | printable outputs
-AUTOMATION   lead capture | CRM | scheduling | reports | AI workflows
-BACKEND      Python | Node.js | APIs | forms | data flows | business logic
-FRONTEND     React | TypeScript | JavaScript | HTML | CSS | Tailwind
-SERVERS      Linux | SSH | Nginx | SSL | DNS | Docker | deployments
+space        star maps | sky charts | celestial data | printable outputs
+automation   lead capture | CRM | scheduling | reports | AI flows
+backend      Python | Node.js | APIs | forms | data flows | business logic
+frontend     React | TypeScript | JavaScript | HTML | CSS | Tailwind
+servers      Linux | SSH | Nginx | SSL | DNS | Docker | deployments
 ```
 
 ## Current Orbit
 
 ```txt
-[active]  make space / star-map products the main lane
-[active]  improve Stellix.app as the flagship star-map ecommerce product
-[active]  build more automation workflows around products and businesses
-[active]  keep growing OpenMapper backend/API modules
-[active]  improve Vedkosh.app as a serious astrology workspace
-[active]  keep production systems fast, clean, and reliable
+active  make space and star map products the main lane
+active  grow Stellix.app as the flagship star map product
+active  build more automation around products and businesses
+active  keep improving OpenMapper backend and API modules
+active  keep Vedkosh.app serious, useful, and deep
+active  keep production systems fast, clean, and reliable
 ```
 
 <div align="center">
 
 ```txt
         .          *             .        *
-   *         orbit cleanly, ship steadily        .
+   *          building under a quiet sky          .
         .          *             .        *
 ```
 
